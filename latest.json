@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "apk_url": "https://github.com/dreamkowshik/myapp-updates/raw/main/app-arm64-v8a-release.apk",
   "force_update": true
 }
